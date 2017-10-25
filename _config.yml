@@ -1,0 +1,40 @@
+# Meta
+title: Moon tracker
+description: 2017년 5월 9일, 제19대 대통령 선거에 승리한 문재인 대통령의 공약 이행 과정을 계속해서 지켜봅니다.
+
+url: 
+baseurl: ''
+
+timezone: 'Asia/Seoul'
+permalink: pretty
+
+# SEO
+facebook:
+  app_id: 
+  publisher: 
+logo: 
+
+google_site_verification: 
+google_analytics: 
+
+# Build
+exclude:
+  - .jekyll-metadata
+  - .gitignore
+  - .ruby-version
+  - package.json
+  - webpack.config.js
+  - node_modules
+  - README.md
+  - LICENSE
+  - src
+
+sass:
+  style: :compressed
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  entity_output: :as_input
+  hard_wrap: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo

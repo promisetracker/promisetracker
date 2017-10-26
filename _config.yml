@@ -3,7 +3,7 @@ title: Moon tracker
 description: 2017년 5월 9일, 제19대 대통령 선거에 승리한 문재인 대통령의 공약 이행 과정을 계속해서 지켜봅니다.
 
 url: 
-baseurl: '/promisetracker'
+baseurl: 
 
 timezone: 'Asia/Seoul'
 permalink: pretty
